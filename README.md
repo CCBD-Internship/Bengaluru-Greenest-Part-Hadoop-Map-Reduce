@@ -1,6 +1,6 @@
 BENGALURU'S GREENEST PART
 
-TASK: TO FIND OUT BENGALURU'S GREENEST PARTS USING HADOOP MAP-REDUCE
+TASK: TO FIND OUT BENGALURU'S GREENEST PARTS USING HADOOP MAP-COMBINE-REDUCE
 
 IMPLEMENTATION STEPS:-
 
@@ -18,4 +18,4 @@ Hadoop Setup
 
 Hadoop Map Combine Reduce
 
-    Mapping Image Processing and Combining and Reducing based on Area Based Weighted Average
+    Mapping Image Processes as well as Combining and Reducing resuts on Area Based Weighted Average
